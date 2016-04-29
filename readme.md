@@ -16,8 +16,8 @@ www.transitchicago.com/asset.aspx?AssetID=5219
 
 
 ######Required:
-*pip3 install requests*
-API Token
+-pip3 install requests
+-API Token
 
 ######Usage:
-*python3 trackTrains.py*
+_python3 trackTrains.py_
